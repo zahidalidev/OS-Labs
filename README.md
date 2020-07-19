@@ -4,21 +4,36 @@ commandds
 
 first install:
 
-sudo apt install gcc
-sudo apt install g++
-sudo apt install gdb
+
+1- sudo apt install gcc
+
+2- sudo apt install g++
+
+3- sudo apt install gdb
+
+
 
 for threads
-gcc fileName.c -o fileName -lpthread
-./filename
+
+1- gcc fileName.c -o fileName -lpthread
+
+2- ./filename
+
+
+
 
 for shared memory
-gcc fileName.c -o fileName -sh
-./filename
+
+1- gcc fileName.c -o fileName -sh
+
+2- ./filename
+
+
+
 
 for simple files
-gcc fileName.c -o fileName
-./fileName
+1- gcc fileName.c -o fileName
+2- ./fileName
 
 
 
