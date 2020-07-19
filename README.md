@@ -1,6 +1,5 @@
-# OS-Labs
-# Os lab online
-# commandds
+
+  # commandds
 
 # first install:
 
