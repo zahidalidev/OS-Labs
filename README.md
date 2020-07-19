@@ -1,8 +1,8 @@
 # OS-Labs
-Os lab online
-commandds
+# Os lab online
+# commandds
 
-first install:
+# first install:
 
 
 1- sudo apt install gcc
@@ -13,7 +13,7 @@ first install:
 
 
 
-for threads
+# for threads
 
 1- gcc fileName.c -o fileName -lpthread
 
@@ -22,7 +22,7 @@ for threads
 
 
 
-for shared memory
+# for shared memory
 
 1- gcc fileName.c -o fileName -sh
 
@@ -31,7 +31,7 @@ for shared memory
 
 
 
-for simple files
+# for simple files
 1- gcc fileName.c -o fileName
 2- ./fileName
 
